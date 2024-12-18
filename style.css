@@ -23,10 +23,20 @@ h1, h3 {
 
 
 .banner h1 {
-    color: white;
+    color: #FFFFFF;
+    text-shadow: 0 0 3px #000,
+                 0 0 10px #01e675,
+                 0 0 15px #01e675,
+                 0 0 20px #01e675,
+                 0 0 30px #01e675,
+                 0 0 40px #01e675,
+                 0 0 55px #01e675,
+                 0 0 75px #01e675;
+    font-family: Chivo;
     font-size: 45px;
     margin: 0;
 }
+
 
 .banner h2{
     color: #FFFFFF;
